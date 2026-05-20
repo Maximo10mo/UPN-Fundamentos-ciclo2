@@ -1,0 +1,3 @@
+print("HHH")
+print("SSS")
+
